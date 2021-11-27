@@ -8,7 +8,7 @@
         @csrf
         <label>nhap mail</label>
         <input class="form-control " name="email">
-        <button type="submit" class="form-control mt-2" value="submit">
+        <button type="submit" class="btn btn-success mt-2" value="submit">check mail</button>
 
     </form>
 </div>
