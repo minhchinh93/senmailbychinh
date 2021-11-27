@@ -6,7 +6,7 @@
         @csrf
         <label>nhap password moi</label>
         <input class="form-control" name="password">
-        <input type="submit" class="form-control" value="change password">
+        <button type="submit" class="btn btn-success" value="change password">
     </form>
 </div>
 
